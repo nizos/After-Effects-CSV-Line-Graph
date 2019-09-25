@@ -7,7 +7,7 @@
 * Easy slider controls for:
   * Graph: size & position.
   * Animation: start & end time.
-  * Callouts: Number of ccallouts to show, callout color, opacity, size & position.
+  * Callouts: Number of callouts to show, callout color, opacity, size & position.
   * Gridline: Number of gridlines to show, gridline width, color & opacity.
   * Axis labels: Number of labels to show, interval, color & opacity.
   * Series line: Line width, color, opacity, animation start & end time.
